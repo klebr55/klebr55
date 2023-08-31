@@ -10,4 +10,7 @@ I live in Várzea Grande, Mato Grosso, Brazil developing Websites.
 BR Portuguese Brazillian: Native <br>
 🇺🇸 English <br>
 
+<h1> My last Spotify song for u guys :)</h1>
+<h5> My fav genres are: Metal (A ton of subgenres included here), Rock, EDM, Pop, Lo-Fi, R&B and etc.</h5>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4cn4vplg9t7h97cg73lrbgp2s&count=1)
