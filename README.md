@@ -10,6 +10,4 @@ I live in Várzea Grande, Mato Grosso, Brazil developing Websites.
 BR Portuguese Brazillian: Native <br>
 🇺🇸 English <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4cn4vplg9t7h97cg73lrbgp2s&unique={true|1|on|yes})
-
-![1693451628272](https://github.com/klebr55/klebr55/assets/108315951/ef8a05da-5464-4f09-8ba4-4093f4fa9623)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4cn4vplg9t7h97cg73lrbgp2s&count=1)
