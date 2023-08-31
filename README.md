@@ -7,7 +7,7 @@ I live in Várzea Grande, Mato Grosso, Brazil developing Websites.
 🌱 I’m currently learning some programming languages such as: Python, PHP, C and Javascript <br>
 📫 How to reach me: klebervinicius_@hotmail.com or Instagram @klebervinz <br>
 🌎 My Languages 🌎 <br>
-BR Portuguese Brazillian: Native <br>
+🇧🇷 Portuguese Brazillian: Native <br>
 🇺🇸 English <br>
 
 <h1> My last Spotify song for u guys :)</h1>
