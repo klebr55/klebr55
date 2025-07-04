@@ -4,8 +4,8 @@ Hey there, my name is Kleber Vinícius and I'm a front-end Web Dev.
 
 I live in Várzea Grande, Mato Grosso, Brazil developing Websites. 
 
-💻 I’m currently developing a Website for Fecomercio MT <br>
-🌱 I’m currently learning some programming languages such as: Python, PHP, C and Javascript <br>
+💻 I’m working at my own agency called Criactive Design <br>
+🌱 I’m currently learning Next.js and TailwindCSS and implementing them on my projects <br>
 📫 How to reach me: klebervinicius_@hotmail.com or Instagram @klebervinz <br>
 🌎 My Languages 🌎 <br>
 🇧🇷 Portuguese Brazillian: Native <br>
