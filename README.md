@@ -2,7 +2,7 @@
 
 Hey there, my name is Kleber Vinícius and I'm a front-end Web Dev.
 
-I live in Várzea Grande, Mato Grosso, Brazil developing Websites. 
+I live in Brazil developing Websites. 
 
 💻 I’m working as a Freelancer for the agency Criactive Design <br>
 🌱 I’m currently learning Next.js and TailwindCSS and implementing them on my projects <br>
