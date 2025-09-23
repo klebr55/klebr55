@@ -1,8 +1,3 @@
-<h1 align="center">👋 Hey there, I'm Kleber Vinícius</h1>
-<h3 align="center">Front-end Web Developer from Brazil</h3>
-
----
-
 ## 🚀 About Me  
 
 💻 Freelancer at **Criactive Design**  
